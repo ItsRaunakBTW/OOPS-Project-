@@ -1,0 +1,10 @@
+# Binaries and object files
+alfewg
+*.o
+
+# macOS system files
+.DS_Store
+
+# Temporary files
+*.tmp
+*.tmp.pdf
